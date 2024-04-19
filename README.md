@@ -1,7 +1,7 @@
 
 # Spam Classification Using Machine Learning
 
-This project is  about building a smart spam detector. In this repository, you'll find everything you need to make your email or messages safer. Check out the code and guides to create your own Spam detection web application with streamlit
+This project is  about building a smart spam detector. Utilized the Bag of Words model to convert text messages into numerical vectors, capturing word frequency information for classification. Check out the code and guides to create your own Spam detection web application with streamlit
 
 
 ## Links
